@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+terminal_agent/__init__.py
+terminal_agent/agent.py
+uta_av.egg-info/PKG-INFO
+uta_av.egg-info/SOURCES.txt
+uta_av.egg-info/dependency_links.txt
+uta_av.egg-info/entry_points.txt
+uta_av.egg-info/requires.txt
+uta_av.egg-info/top_level.txt

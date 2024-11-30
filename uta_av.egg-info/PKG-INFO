@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: uta-av
+Version: 0.1.0
+Summary: A terminal agent for generating and executing Ubuntu commands for you.
+Home-page: https://github.com/agentsvalley/uta-av
+Author: Agents Valley
+Author-email: agentsvalley@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# UTA-AV: Ubuntu Terminal Agent by Agents Valley
+
+UTA-AV is a terminal agent that generates and executes Ubuntu commands For you. Just tell the Agent What you want to do and our agent will do for you any task you want to do on your ubuntu terminal.
+
+## Installation
+
+```bash
+pip install uta-av
+
+
